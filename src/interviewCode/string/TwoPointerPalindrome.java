@@ -1,4 +1,4 @@
-package interviewCode;
+package interviewCode.string;
 
 public class TwoPointerPalindrome {
 

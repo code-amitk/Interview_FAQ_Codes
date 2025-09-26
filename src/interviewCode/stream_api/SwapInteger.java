@@ -1,4 +1,4 @@
-package interviewCode;
+package interviewCode.stream_api;
 
 public class SwapInteger {
 

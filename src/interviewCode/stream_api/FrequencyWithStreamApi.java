@@ -1,4 +1,4 @@
-package interviewCode;
+package interviewCode.stream_api;
 
 import java.util.*;
 import java.util.stream.Collectors;
